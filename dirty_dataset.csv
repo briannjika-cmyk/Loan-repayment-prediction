@@ -1,0 +1,51 @@
+customer_id,age,income,education,marital_status,credit_score,loan_amount,employment_years,default_status,last_payment_date,phone_number,email,city,state,zip_code,product_type,purchase_frequency,avg_monthly_spend,last_login,account_created
+CUST001,25,45000,Bachelor,Married,720,15000,3,0,12/15/2023,-677,john.doe@email.com,New York,NY,10001,credit_card,monthly,850.5,1/15/2024 10:30,3/15/2020
+CUST002,,75000,Master,Divorced,680,25000,8,1,11/20/2023,555-0124,jane.smith@,Chicago,IL,60601,personal_loan,quarterly,1200.75,1/10/2024 14:22,7/22/2019
+CUST003,28,52000,Bachelor,Married,750,18000,4,0,12/1/2023,555-0125,bob.wilson@email.com,Los Angeles,CA,90210,credit_card,weekly,650.25,1/20/2024 9:15,1/10/2021
+CUST004,42,95000,PhD,Married,800,35000,12,0,12/30/2023,555-0126,alice.brown@email.com,Houston,TX,77001,mortgage,annually,2500,1/18/2024 16:45,5/30/2018
+CUST005,31,38000,HighSchool,Single,620,12000,2,1,10/15/2023,555-0127,charlie.davis@,Miami,FL,33101,personal_loan,monthly,450,1/12/2024 11:30,2/14/2022
+CUST006,29,58000,Bachelor,Single,710,20000,5,0,12/25/2023,555-0128,diana.garcia@email.com,Seattle,WA,98101,credit_card,bi-weekly,-780.5,1/22/2024 13:20,11/8/2020
+CUST007,45,110000,Master,Married,820,50000,15,0,12/28/2023,555-0129,frank.miller@email.com,Boston,MA,2101,mortgage,annually,3200.75,1/19/2024 8:45,9/12/2017
+CUST008,26,42000,Associate,Married,650,15000,1,1,9/10/2023,555-0130,grace.lee@,Phoenix,AZ,85001,personal_loan,monthly,520.25,,1/5/2023
+CUST009,38,78000,Bachelor,Divorced,740,28000,9,0,12/20/2023,555-0131,henry.taylor@email.com,Denver,CO,80201,credit_card,monthly,1100,1/21/2024 12:00,12/3/2019
+CUST010,33,63000,Master,Married,760,22000,6,0,12/18/2023,555-0132,iris.white@email.com,Atlanta,GA,30301,personal_loan,quarterly,950.75,1/16/2024 17:30,8/20/2020
+CUST011,27,48000,Bachelor,Single,690,16000,3,0,12/5/2023,(555) 133-0000,jack.black@,San Francisco,CA,94101,credit_card,weekly,720.5,1/17/2024 14:15,6/15/2021
+CUST012,41,88000,Master,Married,ERROR,40000,11,0,12/22/2023,555-0134,karen.green@email.com,Detroit,MI,48201,mortgage,annually,2800.25,1/23/2024 10:45,3/28/2018
+CUST013,24,35k,High School,Single,600,10000,1,1,8/25/2023,555-0135,leo.martinez@,Las Vegas,NV,89101,personal_loan,monthly,380,1/11/2024 16:20,3/10/2023
+CUST014,36,72000,Bachelor,Married,730,26000,7,ERROR,12/12/2023,555-0136,mary.johnson@email.com,Portland,OR,"""97201""",credit_card,bi-weekly,980.5,1/24/2024 9:30,4/18/2020
+CUST015,30,55000,Associate,Divorsed,670,19000,4,0,12/8/2023,555-0137,nick.anderson@,Austin,TX,78701,personal_loan,monthly,680.75,1/13/2024 11:45,9/25/2021
+CUST016,47,125000,PhD,Married,850,60000,18,0,12/31/2023,555-0138,olivia.thomas@email.com,Minneapolis,MN,55401,mortgage,annually,4500,1/25/2024 7:15,11/14/2016
+CUST017,32,59000,Bachelor,Single,700,21000,ERROR,0,12/14/2023,555-0139,paul.jackson@,Nashville,TN,37201,credit_card,monthly,890.25,1/26/2024 13:40,10/12/2020
+CUST018,29,51000,Master,Married,720,17000,3,0,12/3/2023,555-0140,quinn.moore@email.com,Orlando,FL,32801,personal_loan,quarterly,750.5,1/27/2024 15:25,12/7/2021
+CUST019,34,67000,Bachelor,Divorced,750,24000,6,0,12/16/2023,555-0141,rachel.taylor@email.com,San Diego,CA,92101,credit_card,bi-weekly,1050.75,1/28/2024 12:10,5/22/2019
+CUST020,28,46000,Associate,Married,640,14000,2,1,,555-0142,steve.wilson@,Kansas City,MO,64101,personal_loan,monthly,580,1/29/2024 14:55,7/30/2022
+CUST021,39,82000,Master,Married,780,32000,10,0,12/24/2023,555-0143,tina.harris@email.com,Columbus,OH,43201,mortgage,annually,2600.5,1/30/2024 8:20,8/15/2018
+CUST022,31,54000,Bachelor,Single,710,18000,4,0,12/10/2023,555.0144,umar.clark@,Tampa,FL,33601,credit_card,monthly,820.25,1/31/2024 16:35,12/3/2020
+CUST023,26,41000,High School,Married,630,13000,1,1,9/30/2023,555-0145,victoria.lewis@,Pittsburgh,PA,15201,personal_loan,monthly,490.75,2/1/2024 10:15,2/20/2023
+CUST024,37,76000,Bachelor,Divorced,740,27000,8,0,12/19/2023,555-0146,william.walker@email.com,Charlotte,NC,28201,credit_card,monthly,1150,2/2/2024 11:50,10/28/2019
+CUST025,33,61000,Master,Married,760,20000,5,0,12/11/2023,555-0147,xavier.hall@email.com,Indianapolis,IN,46201,personal_loan,quarterly,-920.5,2/3/2024 14:25,6/14/2020
+CUST026,29,49000,Bachelor,Single,690,16000,ERROR,0,12/7/2023,555-0148,yolanda.allen@,Milwaukee,WI,53201,credit_card,weekly,710.75,2/4/2024 9:40,8/9/2021
+CUST027,44,98000,PhD,Married,810,45000,13,0,12/26/2023,555-0149,zachary.young@email.com,Memphis,TN,38101,mortgage,annually,3100.25,2/5/2024 7:30,12/11/2017
+CUST028,27,44000,Associate,Married,660,15000,2,0,12/4/2023,555-0150,amy.king@,Louisville,KY,40201,personal_loan,monthly,620,2/6/2024 13:15,4/17/2022
+CUST029,35,70000,Bachelor,Divorced,730,25000,7,0,12/17/2023,555-0151,benjamin.wright@email.com,Baltimore,MD,21201,credit_card,monthly,1080.5,2/7/2024 15:45,1/26/2019
+CUST030,-32,57000,Master,Married,750,19000,4,0,12/13/2023,555-0152,catherine.lopez@email.com,Albuquerque,NM,87101,personal_loan,quarterly,850.25,2/8/2024 12:20,9/13/2020
+CUST031,28,47000,Bachelor,Single,680,17000,3,0,12/6/2023,555-0153,david.hill@,Tucson,AZ,85701,credit_card,bi-weekly,,2/9/2024 10:05,11/21/2021
+CUST032,40,89000,Master,Married,790,38000,12,0,12/23/2023,555-0154,elena.scott@email.com,Fresno,,93701,mortgage,annually,2700,2/10/2024 8:50,6/4/2018
+CUST033,25,39000,High School,Single,610,12000,1,1,10/20/2023,555-0155,franklin.adams@,Sacramento,CA,95801,personal_loan,monthly,420.5,2/11/2024 16:10,5/8/2023
+CUST034,38,74000,Bachelor,Divorced,720,26000,9,0,12/21/2023,555-0156,gloria.baker@email.com,Mesa,AZ,85201,credit_card,monthly,1020.25,2/12/2024 11:35,3/19/2019
+CUST035,31,56000,Associate,Married,700,18000,4,0,12/9/2023,555-0157,harold.gonzalez@gmail.com,Virginia Beach,VA,23451,personal_loan,monthly,760,2/13/2024 14:00,11/2/2020
+CUST036,36,71000,Master,Married,740,24000,8,0,12/15/2023,555-0158,isabel.nelson@email.com,Omaha,NE,68101,credit_card,monthly,980.75,2/14/2024 9:25,7/16/2019
+CUST037,29,50000,Bachelor,Single,,16000,3,0,12/2/2023,555-0159,james.carter@,Colorado Springs,CO,80901,personal_loan,quarterly,690.5,2/15/2024 12:40,4/12/2021
+CUST038,42,86000,PhD,Married,800,35000,11,0,12/27/2023,555-0160,katherine.mitchell@email.com,Raleigh,NC,27601,mortgage,annually,2400.25,2/16/2024 7:15,2/28/2018
+CUST039,27,45000,,Married,650,14000,2,0,12/1/2023,555-0161,lawrence.perez@,Miami,,33125,personal_loan,monthly,580,2/17/2024 15:30,8/14/2022
+CUST040,34,65000,Bachelor,,730,,6,0,12/14/2023,555-0162,michelle.roberts@email.com,Long Beach,CA,90801,credit_card,monthly,920.5,2/18/2024 11:20,1/9/2020
+CUST041,30,52000,Master,Married,720,18000,4,0,12/11/2023,555-0163,nathan.turner@email.com,Atlanta,GA,30309,personal_loan,quarterly,810.75,2/19/2024 13:55,2/25/2021
+CUST042,26,43000,Bachelor,Single,660,15000,2,0,12/8/2023,555-0164,olivia.phillips@,Oakland,CA,94601,credit_card,bi-weekly,650.25,2/20/2024 10:10,
+CUST043,39,78000,Master,Married,770,30000,10,0,12/18/2023,555-0165,patrick.campbell@email.com,Minnesota,MN,55403,mortgage,annually,2200,2/21/2024 8:45,9/22/2018
+CUST044,33,60000,Bachelor,Divorced,740,20000,5,0,12/16/2023,555-0166,quinn.parker@,Tulsa,OK,74101,personal_loan,monthly,880.5,2/22/2024 14:15,5/7/2020
+CUST045,28,48000,Associate,,680,16000,3,0,12/5/2023,555-0167,rachel.evans@,Cleveland,OH,44101,credit_card,monthly,720.25,2/23/2024 12:30,12/11/2021
+CUST046,37,75000,Master,Married,760,27000,8,0,12/19/2023,555-0168,steven.edwards@email.com,Wichita,KS,67201,personal_loan,quarterly,1050,2/24/2024 16:20,11/3/2019
+CUST047,31,54000,Bachelor,Single,700,18000,4,0,12/12/2023,555-0169,tracy.collins@,Arlington,TX,76001,Unknown,30,790.75,2/25/2024 9:50,7/29/2020
+CUST048,35,68000,,Divorced,730,24000,7,0,12/17/2023,555-0170,ulrich.stewart@email.com,New Orleans,LA,70112,mortgage,annually,1900.5,2/26/2024 11:05,4/16/2019
+CUST049,-29,49000,Bachelor,Married,690,17000,3,0,12/9/2023,555-0171,vanessa.sanchez@,Las Vegas,NV,89109,personal_loan,monthly,680,2/27/2024 13:40,6/2/2021
+CUST050,32,58000,Associate,Divorced,710,19000,5,0,12/13/2023,555-0172,walter.morris@,Portland,OR,97205,3,bi-weekly,850.25,2/28/2024 15:15,12/19/2020
